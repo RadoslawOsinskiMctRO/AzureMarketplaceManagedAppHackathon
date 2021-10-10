@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DotNetCoreSqlDb
+build_property.ProjectDir = C:\_repos\dotnetrepo\dotnetcore-sqldb-tutorial\
